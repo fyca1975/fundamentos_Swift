@@ -1,0 +1,93 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		AA15E7EE2E0EC885009CB393 /* funciones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = funciones.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AA15E7EF2E0ECC86009CB393 /* var opcionales.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "var opcionales.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AA68DD642E0C233000032056 /* condicionales.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = condicionales.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AA70391D2E09774300E7C6F8 /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AA86E00B2E3630ED002A5E14 /* pruebafor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = pruebafor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AAA7C4EA2E30413800A95827 /* ciclos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ciclos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AAA7C4EB2E3047B600A95827 /* cicloFor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cicloFor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AAB969E42E267FA6001BC0B1 /* conjuntos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = conjuntos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AAD97FDF2E1A916100D7C639 /* arreglos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = arreglos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AAEBF2842E2BB4A400B6DE4D /* diccionario.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = diccionario.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		AA4A63DE2E0976EB0099218B = {
+			isa = PBXGroup;
+			children = (
+				AA86E00B2E3630ED002A5E14 /* pruebafor.playground */,
+				AAA7C4EB2E3047B600A95827 /* cicloFor.playground */,
+				AAA7C4EA2E30413800A95827 /* ciclos.playground */,
+				AAEBF2842E2BB4A400B6DE4D /* diccionario.playground */,
+				AAB969E42E267FA6001BC0B1 /* conjuntos.playground */,
+				AAD97FDF2E1A916100D7C639 /* arreglos.playground */,
+				AA15E7EF2E0ECC86009CB393 /* var opcionales.playground */,
+				AA15E7EE2E0EC885009CB393 /* funciones.playground */,
+				AA68DD642E0C233000032056 /* condicionales.playground */,
+				AA70391D2E09774300E7C6F8 /* variables.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		AA4A63DF2E0976EB0099218B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1640;
+			};
+			buildConfigurationList = AA4A63E22E0976EB0099218B /* Build configuration list for PBXProject "fundamentos swift" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AA4A63DE2E0976EB0099218B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		AA4A63E32E0976EB0099218B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		AA4A63E42E0976EB0099218B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA4A63E22E0976EB0099218B /* Build configuration list for PBXProject "fundamentos swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA4A63E32E0976EB0099218B /* Debug */,
+				AA4A63E42E0976EB0099218B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AA4A63DF2E0976EB0099218B /* Project object */;
+}
