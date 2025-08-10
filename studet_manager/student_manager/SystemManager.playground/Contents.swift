@@ -1,0 +1,5 @@
+let math = Subject(name: "Math", teacherName: "John", minimumScore: 60.1)
+let desc = math.subjectDescription()
+let aprobo = math.isPased(score: 59.9)
+print(desc)
+print(aprobo)
