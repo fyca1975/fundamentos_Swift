@@ -27,10 +27,11 @@ public struct Subject {
     
     public func subjectDescription() -> String {
         return  """
-                -------
+                
                 Subject: \(name)
                 Teacher: \(teacherName) 
                 Minimum Score: \(minimumScore)
+                
                 """
     }
 }
